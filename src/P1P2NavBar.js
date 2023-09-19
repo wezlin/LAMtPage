@@ -31,7 +31,7 @@ export default function P1P2NavBar(){
 			<div style= {{
 				width:"100%",
 				backgroundColor: "white",
-				opacity: "1",
+				opacity: "0",
 				zIndex: "100",
 				top: "0",
 				position: scrollY === true ? "relative":"absolute",
