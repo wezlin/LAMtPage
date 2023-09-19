@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/LAMtPage/static/css/main.47473e8e.css",
-    "main.js": "/LAMtPage/static/js/main.522e560d.js",
+    "main.js": "/LAMtPage/static/js/main.1c9cc044.js",
     "index.html": "/LAMtPage/index.html",
     "main.47473e8e.css.map": "/LAMtPage/static/css/main.47473e8e.css.map",
-    "main.522e560d.js.map": "/LAMtPage/static/js/main.522e560d.js.map"
+    "main.1c9cc044.js.map": "/LAMtPage/static/js/main.1c9cc044.js.map"
   },
   "entrypoints": [
     "static/css/main.47473e8e.css",
-    "static/js/main.522e560d.js"
+    "static/js/main.1c9cc044.js"
   ]
 }
