@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LAMoutPages/static/css/main.47473e8e.css",
+    "main.js": "/LAMoutPages/static/js/main.c4c24337.js",
+    "index.html": "/LAMoutPages/index.html",
+    "main.47473e8e.css.map": "/LAMoutPages/static/css/main.47473e8e.css.map",
+    "main.c4c24337.js.map": "/LAMoutPages/static/js/main.c4c24337.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47473e8e.css",
+    "static/js/main.c4c24337.js"
+  ]
+}
